@@ -2,6 +2,7 @@
 .ideaworkspace.xml
 workspace.xml
 *.db
+*.csv
 소상공인_201906
 01_GoogleNews-vectors-negative300.bin
 01_ko.bin
