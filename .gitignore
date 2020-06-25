@@ -12,7 +12,7 @@ logs
 dogs-vs-cats
 NYT-comments
 model/
-
+data/
 # Byte-compiled  optimized  DLL files
 __pycache__
 .py[cod]
